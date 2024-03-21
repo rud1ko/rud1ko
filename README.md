@@ -5,7 +5,7 @@
 
 ### :man_technologist: Обо мне:
 
-Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Я студент лучшего технологического университета России - РТУ МИРЭА. Пишу в основном на фреймворке Next js, но если потребуется смогу работать на голом React. Способен решать алгоритмические задачи (тренируюсь на leetcode) разного уровня. На данный момент пишу 3-й проект - Школа иностранных языков (смотреть список репозиториев: school-lang), а также познаю backend, за основу взял Spring. 
+Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Я студент лучшего технологического университета России - РТУ МИРЭА. Пишу в основном на фреймворке Next js, но если потребуется смогу работать на голом React. Способен решать алгоритмические задачи (тренируюсь на leetcode) разного уровня.
 
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-ChakryanRudolf-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Rudiko7) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:chakryan_rudik@mail.ru)
